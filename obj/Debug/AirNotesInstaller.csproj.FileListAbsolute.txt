@@ -1,0 +1,10 @@
+C:\Users\Arturo\Desktop\AirNotesInstaller\AirNotesInstaller\obj\Debug\AirNotesInstaller.csprojAssemblyReference.cache
+C:\Users\Arturo\Desktop\AirNotesInstaller\AirNotesInstaller\obj\Debug\AirNotesInstaller.FolderSelect.resources
+C:\Users\Arturo\Desktop\AirNotesInstaller\AirNotesInstaller\obj\Debug\AirNotesInstaller.Form1.resources
+C:\Users\Arturo\Desktop\AirNotesInstaller\AirNotesInstaller\obj\Debug\AirNotesInstaller.Panels.EndPanel.resources
+C:\Users\Arturo\Desktop\AirNotesInstaller\AirNotesInstaller\obj\Debug\AirNotesInstaller.Panels.ProgressPanel.resources
+C:\Users\Arturo\Desktop\AirNotesInstaller\AirNotesInstaller\obj\Debug\AirNotesInstaller.Properties.Resources.resources
+C:\Users\Arturo\Desktop\AirNotesInstaller\AirNotesInstaller\obj\Debug\AirNotesInstaller.Start.resources
+C:\Users\Arturo\Desktop\AirNotesInstaller\AirNotesInstaller\obj\Debug\AirNotesInstaller.UserTerm.resources
+C:\Users\Arturo\Desktop\AirNotesInstaller\AirNotesInstaller\obj\Debug\AirNotesInstaller.csproj.GenerateResource.cache
+C:\Users\Arturo\Desktop\AirNotesInstaller\AirNotesInstaller\obj\Debug\AirNotesInstaller.csproj.CoreCompileInputs.cache
